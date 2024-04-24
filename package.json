@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  },
+  "scripts": {
+    "test:dev": "cypress run --config-file cypress.config.dev.js",
+    "open:dev": "cypress open --config-file cypress.config.dev.js"
+  }
+}
