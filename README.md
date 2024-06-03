@@ -35,9 +35,10 @@ npm run open:dev
 
 Para executar os testes em modo headless (sem interface visual):
 
-\`\`\`bash
+```bash
 npm run test:dev
-\`\`\`
+```
+``` 
 
 ### Observações
 
