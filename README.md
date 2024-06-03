@@ -21,25 +21,22 @@ Para configurar o projeto, siga os passos abaixo:
 2. Navegue até a pasta do projeto.
 3. Execute o comando abaixo para instalar as dependências relacionadas ao Cypress:
 
-```bash
-npm install
 ```
+npm install
 ``` 
 
 ## Executando os Testes
 
 Para interagir com os testes de forma visual:
 
-```bash
-npm run open:dev
 ```
+npm run open:dev
 ```
 
 Para executar os testes em modo headless (sem interface visual):
 
-```bash
-npm run test:dev
 ```
+npm run test:dev
 ``` 
 
 ### Observações
