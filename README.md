@@ -45,5 +45,3 @@ npm run test:dev
 
 2. O código de exemplo foi feito em um ambiente público para testes, caso seja realizado em um ambiente privado ou que contenha dados sensíveis ou pessoais, adicione o arquivo de configuração de ambientes ao .gitignore, pois caso contrário, os dados ficarão expostos.
 
-
-EOF
