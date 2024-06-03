@@ -40,7 +40,7 @@ npm run test:dev
 
 ### Observações
 
-1. Caso sejam criados outros environments, devem ser adicionados scripts específicos para cada um deles no \`package.json\`.
+1. Caso sejam criados outros environments, devem ser adicionados scripts específicos para cada um deles no **package.json**.
 
 2. O código de exemplo foi feito em um ambiente público para testes, caso seja realizado em um ambiente privado ou que contenha dados sensíveis ou pessoais, adicione o arquivo de configuração de ambientes ao .gitignore, pois caso contrário, os dados ficarão expostos.
 
