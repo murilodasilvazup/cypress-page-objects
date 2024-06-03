@@ -10,8 +10,8 @@ Este projeto contém testes automatizados para a funcionalidade de login usando 
 
 ## Estrutura do Projeto
 
-- **\`support/pageObjects/\`**: Contém os objetos de página que encapsulam métodos para interagir com a interface do usuário, facilitando a manutenção do código de teste.
-- **\`e2e/\`**: Contém os arquivos de teste, como o exemplo \`login.cy.js\`, que executam testes específicos de login.
+- **\support/pageObjects/\**: Contém os objetos de página que encapsulam métodos para interagir com a interface do usuário, facilitando a manutenção do código de teste.
+- **\e2e/\**: Contém os arquivos de teste, como o exemplo \`login.cy.js\`, que executam testes específicos de login.
 
 ## Configuração do Projeto
 
@@ -21,17 +21,19 @@ Para configurar o projeto, siga os passos abaixo:
 2. Navegue até a pasta do projeto.
 3. Execute o comando abaixo para instalar as dependências relacionadas ao Cypress:
 
-   \`\`\`bash
-   npm install
-   \`\`\`
+```bash
+npm install
+```
+``` 
 
 ## Executando os Testes
 
 Para interagir com os testes de forma visual:
 
-\`\`\`bash
+```bash
 npm run open:dev
-\`\`\`
+```
+```
 
 Para executar os testes em modo headless (sem interface visual):
 
