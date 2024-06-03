@@ -1,4 +1,3 @@
-cat <<EOF >README.md
 # Testes e2e para Funcionalidade de Login
 
 Este projeto contém testes automatizados para a funcionalidade de login usando Cypress, empregando o padrão de projeto Page Objects. Ele valida alguns cenários de login, servindo de padrão para a criação de outros projetos.
