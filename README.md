@@ -10,8 +10,8 @@ Este projeto contém testes automatizados para a funcionalidade de login usando 
 
 ## Estrutura do Projeto
 
-- **\support/pageObjects/\**: Contém os objetos de página que encapsulam métodos para interagir com a interface do usuário, facilitando a manutenção do código de teste.
-- **\e2e/\**: Contém os arquivos de teste, como o exemplo \`login.cy.js\`, que executam testes específicos de login.
+- **support/pageObjects/**: Contém os objetos de página que encapsulam métodos para interagir com a interface do usuário, facilitando a manutenção do código de teste.
+- **e2e/**: Contém os arquivos de teste, como o exemplo \`login.cy.js\`, que executam testes específicos de login.
 
 ## Configuração do Projeto
 
